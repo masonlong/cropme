@@ -1,14 +1,14 @@
 {
-  "author": "Stanislas Duprey",
+  "author": "Stanislas Duprey / Mason Long",
   "name": "cropme",
-  "description": "Preview and crop a picture before upload",
-  "homepage": "http://github.com/standup75/cropme",
+  "description": "Preview and crop a picture before upload (with Angular Material)",
+  "homepage": "http://github.com/masonlong/cropme",
   "repository": {
     "type": "git",
-    "url": "git://github.com/standup75/cropme.git"
+    "url": "git://github.com/masonlong/cropme.git"
   },
   "main": [
-    "./cropme.js",
+    "./cropme-material.js",
     "./cropme.css"
   ],
   "version": "0.3.6",
