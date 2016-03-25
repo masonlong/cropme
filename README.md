@@ -9,7 +9,7 @@ Install
 
 Copy the cropme.js and cropme.css files into your project and add the following line with the correct path:
 
-		<script src="/path/to/scripts/cropme.js"></script>
+		<script src="/path/to/scripts/cropme-angular.js"></script>
 		<link rel="stylesheet" href="/path/to/scripts/cropme.css">
 
 
@@ -19,7 +19,7 @@ Alternatively, if you're using bower, you can add this to your component.json (o
 
 Or simply run
 
-		bower install angular-cropme
+		bower install angular-cropme-material
 
 Check the dependencies to your html (unless you're using wiredep):
 
@@ -30,7 +30,7 @@ Check the dependencies to your html (unless you're using wiredep):
 
 And (unless you're using wiredep):
 
-		<script src="components/angular-cropme/cropme.js"></script>
+		<script src="components/angular-cropme/cropme-material.js"></script>
 
 And the css:
 
